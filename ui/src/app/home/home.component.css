@@ -1,0 +1,16 @@
+/*input[type=img] {
+    width: 100%;
+    height: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    position : absolute;
+  }
+*/
+  body {
+    background-image: url('https://assets.weforum.org/article/image/JMF96ETfn1kSViVnUou1Z0XIDwWcPpT5mrPc7-ytpAc.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+  
